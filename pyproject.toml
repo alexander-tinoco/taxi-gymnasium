@@ -1,8 +1,10 @@
 [project]
 name = "taxi"
 version = "0.1.0"
-description = "Add your description here"
+description = "Tabular Q-learning agent for Gymnasium's Taxi-v4 environment."
 readme = "README.md"
+license = "MIT"
+keywords = ["reinforcement-learning", "q-learning", "gymnasium", "taxi"]
 authors = [
     { name = "alexander-tinoco", email = "alexander.tinoco.gh@gmail.com" }
 ]

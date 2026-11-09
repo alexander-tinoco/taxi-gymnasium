@@ -1,2 +1,3 @@
-def main() -> None:
-    print("Hello from taxi!")
+from taxi.agent import main
+
+__all__ = ["main"]
